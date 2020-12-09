@@ -1,0 +1,47 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Programming
+  icon: "/images/sections/skills/prog.png"
+  summary: "Java, Python, C, SQL, PL\\SQL, ProLog, Lisp."
+  
+
+- name: Machine Learning
+  icon: "/images/sections/skills/machine.png"
+  summary: "Neural networks, Logistique regression, Rondom forests, ."
+  
+- name: Big Data
+  icon: "/images/sections/skills/big.png"
+  summary: "Spark Streaming, Kafka, Hadoop."
+
+- name: Statistics
+  icon: "/images/sections/skills/stat.png"
+  summary: "Data analysis, inference."
+
+- name: Data Visualization & Communication
+  icon: "/images/sections/skills/dataviz.png"
+  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+
+- name: Design and analysis
+  icon: "/images/sections/skills/des.png"
+  summary: "BPMN, UML"
+
+- name: Project management
+  icon: "/images/sections/skills/proj.png"
+  summary: "Scrum, lean six sigma"
+
+- name: Operational research
+  icon: "/images/sections/skills/or.png"
+  summary: "Linear programming, Non-Linear programming, Constraint programming, Dynamic programming"
+
+
